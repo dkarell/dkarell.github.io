@@ -19,7 +19,7 @@ I teach a course on incorporating generative AI into social science research met
 
 “Integrating Generative Artificial Intelligence into Social Science Research: Measurement, Prompting, and Simulation”, with Thomas Davidson. 2025. *Sociological Methods and Research*. [`link`](https://journals.sagepub.com/doi/10.1177/00491241251339184)
 
-“Artificial Intelligence Summaries of Historical Events Improve Knowledge Compared to Human-Written Summaries”, with Matthew Shu, Keitaro Okura, and Thomas Davidson. [`preprint`](https://osf.io/preprints/socarxiv/3gsqw)
+“Artificial Intelligence Summaries of Historical Events Improve Knowledge Compared to Human-Written Summaries”, with Matthew Shu, Keitaro Okura, and Thomas Davidson. [preprint](https://osf.io/preprints/socarxiv/3gsqw)
 
 “Synthetic Duality: A Framework for Analyzing Natural Language Generation's Representation of Social Reality”, with Jeffrey Sachs and Ryan Barrett. 2024. *Poetics* 108: 101966. [`link`](https://www.sciencedirect.com/science/article/pii/S0304422X24001049?via%3Dihub)
 

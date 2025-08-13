@@ -3,10 +3,10 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+$blue                       : #7a8288;
+$dark-blue                  : mix(#000, $blue, 40%);
+$darker-blue                : mix(#000, $blue, 60%);
+$light-blue                 : mix(#fff, $blue, 50%);
 
 $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
@@ -38,11 +38,11 @@ html[data-theme="dark"] {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
+    --global-border-color               : #{$light-blue};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
+    --global-code-text-color            : #{$darker-blue};
+    --global-fig-caption-color          : #{$light-blue};
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
     --global-link-color-visited         : #{$link-light};

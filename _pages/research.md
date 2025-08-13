@@ -2,9 +2,6 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-redirect_from: 
-  - "research/"
-  - "/research.html"
 ---
 
 My research has focused on different topics: AI, society, and social science research methods; social media and social movements; the social and cultural dynamics of political violence; labor migration; and ethnic and national identity. On this page, I have organized my publications according to these topics. My publications are also listed on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=40Zff94AAAAJ).

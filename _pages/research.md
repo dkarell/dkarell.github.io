@@ -7,7 +7,7 @@ redirect_from:
   - "/research.html"
 ---
 
-My research has focused on a few topics: AI, society, and social science research methods; social media and social movements; the social and cultural dynamics of political violence; labor migration; and ethnic and national identity. Below, my publications are organized according to these topics.
+My research has focused on a few topics: AI, society, and social science research methods; social media and social movements; the social and cultural dynamics of political violence; labor migration; and ethnic and national identity. Below, my publications are organized according to these topics. My publications are also listed on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=40Zff94AAAAJ).
 
 ## Generative AI, society, and social science research
 

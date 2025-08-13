@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Daniel Karell"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "head_photo.png"
-  name             : "Daniel Karell"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"

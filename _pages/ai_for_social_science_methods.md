@@ -32,6 +32,9 @@ My initial reading list is below. It is intended for advanced undergraduates and
 - "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" by Wei, et al. on arXiv (2023) [link](https://arxiv.org/abs/2201.11903)
 - "Concept-Guided Chain-of-Thought Prompting for Pairwise Comparison Scoring of Texts with Large Language Models" by Wu, et al. on arXiv (2025) [link](https://arxiv.org/abs/2310.12049)
 - "Survey on Prompt Tuning", by Li, et al. on arXiv (2025) [link](https://arxiv.org/abs/2507.06085)
+
+### Prompting applications to text analysis
+
 - "Updating the 'Future of Coding': Comparing Generative AI Models to Other Text Analysis Methods" by Than, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/full/10.1177/00491241251339188)
 - "Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning", by Chae and Davidson in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/10.1177/00491241251325243)
 

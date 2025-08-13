@@ -9,13 +9,19 @@ redirect_from:
 
 I am an Assistant Professor of Sociology at Yale University.
 
-AI for Social Science Research Methods
-------
+## AI for Social Science Research Methods
+
 Text
 
-Research
-------
+## Research
+
 Text
+
+### Topic 1
+
+### Topic 2
+
+### Topic 3
 
 Site-wide configuration
 ----------

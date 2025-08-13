@@ -1,11 +1,18 @@
 ---
 permalink: /ai_for_social_science_methods/
-title: "AI for social science "
-modified: 2016-06-06
+title: "AI for social science methods"
+author_profile: true
+redirect_from: 
+  - "ai_for_social_science_methods/"
+  - "/ai_for_social_science_methods.html"
 ---
 
-{% include base_path %}
-{% include toc %}
+permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from: 
+  - "research/"
+  - "/research.html"
 
 ## Privacy Policy
 

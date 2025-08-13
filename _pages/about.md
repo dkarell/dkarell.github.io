@@ -25,7 +25,7 @@ Text
 
 “Language Models in Sociological Research: An Application to Classifying Large Administrative Data and Measuring Religiosity”, with Jeffrey Jensen, Cole Tanigawa-Lau, Mai Oudah, Nizar Habash, and Dhia Fani. 2022. *Sociological Methodology* 52: 30-52. [`link`](https://doi.org/10.1177/00811750211053370)
 
-**Social media and social movements**
+### Social media and social movements
 
 “Online Speech and Communal Conflict: Evidence from India”, with Sebastian Schutte and Ryan Barrett. 2025. PNAS Nexus 4: pgaf149. [`link`](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf149/8129733?utm_source=advanceaccess&utm_campaign=pnasnexus&utm_medium=email)
 

@@ -32,7 +32,7 @@ My research has focused on different topics: AI, society, and social science res
 
 “The TikTok Self: Music, Signaling, and Identity on Social Media”, with Jeffrey Sachs and Rahshemah Wise. 2021. [preprint](https://osf.io/preprints/socarxiv/2rx46/)
 
-### Social and cultural dynamics of political violence
+## Social and cultural dynamics of political violence
 
 “Sociocultural Mechanisms of Conflict: Combining Topic and Stochastic Actor-Oriented Models in an Analysis of Afghanistan, 1979–2001”, with Michael Freedman. 2020. *Poetics* 78: 101403. [link](https://www.sciencedirect.com/science/article/abs/pii/S0304422X18302766?via%3Dihub)
 
@@ -44,13 +44,13 @@ My research has focused on different topics: AI, society, and social science res
 
 “Aid, Power, and Grievances: Lessons for War and Peace from Rural Afghanistan”. 2015. *The Economics of Peace and Security Journal* 10: 43–52. [link](https://www.epsjournal.org.uk/index.php/EPSJ/article/view/228)
 
-### Labor migration
+## Labor migration
 
 “Does Information Improve the Experience of Pursing Labor Migration? Evidence from a Field Experiment in Pakistan”, with Rabia Malik and Syed and Kasim Najam Shah. 2024. *International Migration Review*. [link](https://journals.sagepub.com/doi/full/10.1177/01979183241275460)
 
 “Dynamics of Immobility: Capability Conversion among Aspiring Migrants in Pakistan”. 2022. *International Migration* 69: 126-142. [link](http://doi.org/10.1111/imig.12866)
 
-### Ethnic and national identity
+## Ethnic and national identity
 
 “Hyphenated Turkishness: The Plurality of Monolithic Nationhood in Turkey”, with Serhun Al. 2016. *Nationalities Papers* 44: 144-64. [link](https://tandfonline.com/doi/full/10.1080/00905992.2015.1087485)
 

@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
+permalink: /ai_for_social_science_methods/
+title: "AI for social science "
 modified: 2016-06-06
 ---
 

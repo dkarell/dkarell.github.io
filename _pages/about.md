@@ -11,7 +11,7 @@ I am an Assistant Professor of Sociology at Yale University.
 
 ## AI for Social Science Research Methods
 
-Text
+I teach a course on incorporating generative AI into social science research methods. 
 
 ## Research
 

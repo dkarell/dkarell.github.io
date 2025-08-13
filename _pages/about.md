@@ -25,9 +25,21 @@ Text
 
 “Language Models in Sociological Research: An Application to Classifying Large Administrative Data and Measuring Religiosity”, with Jeffrey Jensen, Cole Tanigawa-Lau, Mai Oudah, Nizar Habash, and Dhia Fani. 2022. *Sociological Methodology* 52: 30-52. [`link`](https://doi.org/10.1177/00811750211053370)
 
+**Social media and social movements**
 
+“Online Speech and Communal Conflict: Evidence from India”, with Sebastian Schutte and Ryan Barrett. 2025. PNAS Nexus 4: pgaf149. [`link`](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf149/8129733?utm_source=advanceaccess&utm_campaign=pnasnexus&utm_medium=email)
 
-### Topic 2
+“Perceived Racial Threats Increase Demand for Conservative Media: Evidence from Black Lives Matter Protests and Fox News Ratings”, with Jeffrey L. Jensen. [`preprint`](https://osf.io/preprints/socarxiv/bmupw/)
+
+“‘Born for a Storm’: Hard-Right Social Media and Civil Unrest”, with Andrew Linke, Edward Holland, and Edward Hendrickson. 2023. American Sociological Review 88: 322-349. [`link`](https://journals.sagepub.com/doi/10.1177/00031224231156190) 
+
+“How Symbols Influence Social Media Discourse: An Embedding Regression Analysis of Trump’s Return to Twitter”, with Jeffrey Sachs. 2023. Socius 9. [`link`](https://journals.sagepub.com/doi/10.1177/23780231231212108) 
+
+“Analyzing Text and Images in Digital Communication: The Case of Securitization in American White Supremacist Online Discourse”, with Michael Freedman and Noam Gidron. 2023. Socius 9. [`link`](https://journals.sagepub.com/doi/10.1177/23780231231161049)
+
+“Small Town Propaganda: The Content and Emotions of Politicized Digital Local News in the United States”, with Anjali Agrawal. 2021. Poetics 92: 101641. [`link`](https://doi.org/10.1016/j.poetic.2021.101641)
+
+“The TikTok Self: Music, Signaling, and Identity on Social Media”, with Jeffrey Sachs and Rahshemah Wise. 2021. [`preprint`](https://osf.io/preprints/socarxiv/2rx46/)
 
 ### Topic 3
 

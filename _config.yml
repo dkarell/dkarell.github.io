@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "head_photo.png"
   name             : "Daniel Karell"
-  pronouns         : # example: "she/her"  
+  pronouns         : example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : # "Earth"
   employer         : "Yale University"

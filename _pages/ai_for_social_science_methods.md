@@ -7,14 +7,13 @@ author_profile: true
 
 In Fall 2025, I am teaching a new course on incorporating generative AI into social science research methods. I will post my materials here, along with notes about what did and did not work. If you are considering teaching this type of course, or already teaching it, I would love to hear from you. My hope is to build a community of social scientists teaching about AI as a research tool. 
 
+## Course materials
 
+I have compiled an initial reading list and, with Hridhay Suresh (Yale University), created progamming-based activities for students. These are all works-in-progress. If you are interested in sharing ideas and/or comments about these materials, please feel free to send me an email. 
 
+Much of the matrials build on a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (Rutgers University). The special issue can be found [here](https://journals.sagepub.com/toc/smra/54/3).
 
-I am developing and (as of Fall 2025) teaching a course on incorporating generative AI into social science research methods. The course builds on a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (Rutgers University). The special issue can be found [here](https://journals.sagepub.com/toc/smra/54/3).
-
-I have compiled an initial reading list and, with Hridhay Suresh (Yale University), created progamming-based activities for students. These are all works-in-progress. If you are interested in sharing ideas and/or comments about these materials, please feel free to send me an email. I think it would be great to form a community of social scientists teaching about AI as tool to enchance research methods. 
-
-## Activities
+### Activities
 
 The files for the programming-based activities (or "labs" or "problems sets") can be accessed through the following links. There are both PDF and R Markdown versions.
 
@@ -22,7 +21,7 @@ The files for the programming-based activities (or "labs" or "problems sets") ca
 - An activity about
 - An activitiy about
 
-## Reading list
+### Reading list
 
 My initial reading list is below. It is intended for advanced undergraduates and graduate students in social science majors and programs. As I teach the course, I will add notes about how students responded to each reading. 
 

@@ -18,7 +18,9 @@ The files for the programming-based activities (or "labs" or "problems sets") ca
 
 ## Reading list
 
-My initial reading list is below. It is intended for advanced undergraduates and graduate students in social science majors and programs. As I teach the course, I will add notes about how students responded to each reading. If you have suggestions of readings to add, please feel free to email me and I will update the list.
+My initial reading list is below. It is intended for advanced undergraduates and graduate students in social science majors and programs. As I teach the course, I will add notes about how students responded to each reading. 
+
+Using AI in the social sciences is a rapidly-growing area of research. There are many excellent papers not included in my current reading list. This is mainly because I am in the process of finding a combination of papers that, first, address a range of topics and emerging debates (in one semester) and, second, are accessible and interesting to students. If you have suggestions of readings to add, please feel free to email me and I will update the list.
 
 ### Background and overview
 

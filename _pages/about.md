@@ -13,4 +13,4 @@ Some of my current research examines how people's interactions with AI can influ
 
 ### Teaching How to Use AI for Social Science Research
 
-I am currently developing and teaching a course on incorporating generative AI into social science research methods. If you are interested in more information about this course, including some of its materials, use the menu to navigate to the course's page or click [here](https://dkarell.github.io/ai_for_social_science_methods/).
+I am currently teaching a course on incorporating generative AI into social science research methods. If you are interested in more information about this course, including some of its materials, use the menu to navigate to the course's page or click [here](https://dkarell.github.io/ai_for_social_science_methods/).

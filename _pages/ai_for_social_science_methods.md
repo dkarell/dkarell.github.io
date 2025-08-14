@@ -27,11 +27,11 @@ My initial reading list is below. It is intended for advanced undergraduates and
 
 Using AI in the social sciences is a rapidly-growing area of research. There are many excellent papers not included in my current reading list. This is mainly because I am in the process of finding a combination of papers that, first, address a range of topics and emerging debates (in one semester) and, second, are accessible and interesting to students. If you have suggestions of readings to add, please feel free to email me and I will update the list.
 
-### Background and overview
+- Background and overview
 
-- "Introduction to Neural Transfer Learning With Transformers for Social Science Text Analysis" by Wankmüller in *Sociological Methods & Research* (2022) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241221134527)
-- "Start Generating: Harnessing Generative Artificial Intelligence for Sociological Research" by Davidson in *Socius* (2024) [link](https://journals.sagepub.com/doi/full/10.1177/23780231241259651)
-- "Integrating Generative Artificial Intelligence into Social Science Research" by Davidson and Karell in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251339184)
+  - "Introduction to Neural Transfer Learning With Transformers for Social Science Text Analysis" by Wankmüller in *Sociological Methods & Research* (2022) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241221134527)
+  - "Start Generating: Harnessing Generative Artificial Intelligence for Sociological Research" by Davidson in *Socius* (2024) [link](https://journals.sagepub.com/doi/full/10.1177/23780231241259651)
+  - "Integrating Generative Artificial Intelligence into Social Science Research" by Davidson and Karell in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251339184)
   
 ### Prompting
 

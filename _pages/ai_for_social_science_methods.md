@@ -11,7 +11,7 @@ In Fall 2025, I am teaching a new course on incorporating generative AI into soc
 
 I have compiled an initial reading list and, with Hridhay Suresh (Yale University), created progamming-based activities for students. These are all works-in-progress. If you are interested in sharing ideas and/or comments about these materials, please feel free to send me an email. 
 
-Much of the matrials build on a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (Rutgers University). The special issue can be found [here](https://journals.sagepub.com/toc/smra/54/3).
+Much of the course's content builds on a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (Rutgers University). The special issue can be found [here](https://journals.sagepub.com/toc/smra/54/3).
 
 ### Activities
 

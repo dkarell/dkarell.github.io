@@ -4,7 +4,9 @@ title: "Research"
 author_profile: true
 ---
 
-My research has focused on different topics: AI, society, and social science research methods; social media and social movements; the social and cultural dynamics of political violence; labor migration; and ethnic and national identity. On this page, I have organized my publications according to these topics. My publications are also listed on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=40Zff94AAAAJ).
+My research has focused on different topics: AI, society, and social science research methods; social media and social movements; the social and cultural dynamics of political violence; labor migration; and ethnic and national identity. Some of this research was based on fieldwork I conducted in Afghanistan, Pakistan, and Morocco betwen 2010 and 2018. 
+
+On this page, I have organized my publications according to these topics. My publications are also listed on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=40Zff94AAAAJ).
 
 ## Generative AI, society, and social science research
 

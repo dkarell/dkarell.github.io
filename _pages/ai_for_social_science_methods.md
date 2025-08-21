@@ -9,7 +9,7 @@ During Fall 2025, I am teaching a new course on incorporating generative AI into
 
 ## Course materials
 
-I have compiled an initial reading list and created progamming-based activities for students. These are all works-in-progress. If you want to share ideas and/or comments about these materials, please feel free to send me an email. Hridhay Suresh (Yale University) assisted in the initial development of the activities.
+I have compiled an initial reading list and created progamming-based activities for students. These are all works-in-progress. If you want to share ideas and/or comments about these materials, please feel free to send me an email. Hridhay Suresh (Yale University) assisted with the initial development of the activities.
 
 Much of the course's content builds on a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (Rutgers University). The special issue can be found [here](https://journals.sagepub.com/toc/smra/54/3).
 

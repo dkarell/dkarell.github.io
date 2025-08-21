@@ -5,27 +5,27 @@ author_profile: true
 ---
 
 
-In Fall 2025, I am teaching a new course on incorporating generative AI into social science research methods. I will post my materials here, along with notes about what did and did not work. If you are considering teaching this type of course, or already teaching it, I would love to hear from you. My hope is to build a community of social scientists teaching about AI as a research tool. 
+During Fall 2025, I am teaching a new course on incorporating generative AI into social science research methods. I will post my materials here, along with notes about what did and did not work. If you are considering teaching this type of course, or already teaching it, I would love to hear from you. My hope is to help build a community of social scientists teaching about AI as a research tool. 
 
 ## Course materials
 
-I have compiled an initial reading list and, with Hridhay Suresh (Yale University), created progamming-based activities for students. These are all works-in-progress. If you are interested in sharing ideas and/or comments about these materials, please feel free to send me an email. 
+I have compiled an initial reading list and, with Hridhay Suresh (Yale University), created progamming-based activities for students. These are all works-in-progress. If you want to share ideas and/or comments about these materials, please feel free to send me an email. 
 
 Much of the course's content builds on a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (Rutgers University). The special issue can be found [here](https://journals.sagepub.com/toc/smra/54/3).
 
 ### Activities
 
-The files for the programming-based activities (or "labs" or "problems sets") can be accessed through the following links. There are both PDF and R Markdown versions.
+The files for the programming-based activities are available through the following links. These are the first versions, and I will update them as I teach the course.
 
-- An activity about 
-- An activity about
-- An activitiy about
+- An activity about prompting: [PDF](https://www.dropbox.com/scl/fi/cjusnjy4971rcr7gio379/activity_1_prompting_v1.pdf?rlkey=azilx8kchd4fsqjtw12buaav0&st=n8owjx27&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ann9zxnwcepv7ib15nz59/activity_1_prompting_v1.Rmd?rlkey=18hxmmciyfh5qg076scme2i3m&st=4pnow5ht&dl=0)
+- An activity about using LLMs to generate human-like data:[PDF](https://www.dropbox.com/scl/fi/qmsu9sqk775gita7bcli6/activity_2_siliconsubjects_v1.pdf?rlkey=towslzwnj8pghu0lioejnlvrv&st=7b0cfk96&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/lym1qpxj0qso5h6zo8z3n/activity_2_siliconsubjects_v1.Rmd?rlkey=psuwibn3s8kao7b5x50pm3w1j&st=vspaut3y&dl=0)
+- An activitiy about measurement and bias: [in progress]
 
 ### Reading list
 
-My initial reading list is below. It is intended for advanced undergraduates and graduate students in social science majors and programs. As I teach the course, I will add notes about how students responded to each reading. 
+My initial reading list is below. It is intended for advanced undergraduates and graduate students in social science majors and programs. As I teach the course, I will add notes about how students respond to each reading. 
 
-Using AI in the social sciences is a rapidly-growing area of research. There are many excellent papers not included in my current reading list. This is mainly because I am in the process of finding a combination of papers that, first, cover a range of topics and emerging debates (in one semester) and, second, are accessible and interesting to students. If you have suggestions of readings to add, please feel free to email me and I will update the list.
+Using AI in the social sciences is a rapidly-growing area of research. There are many excellent papers not included in my current reading list. This is mainly because I am trying out combinations of papers that, first, cover a range of topics and emerging debates (in one semester) and, second, are accessible and interesting to students. If you have suggestions of readings to add, please feel free to email me and I will update the list.
 
 - Background and overview
 

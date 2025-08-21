@@ -18,7 +18,7 @@ Much of the course's content builds on a special issue of *Sociological Methods 
 The files for the programming-based activities are available through the following links. These are the first versions, and I will update them as I teach the course.
 
 - An activity about prompting: [PDF](https://www.dropbox.com/scl/fi/cjusnjy4971rcr7gio379/activity_1_prompting_v1.pdf?rlkey=azilx8kchd4fsqjtw12buaav0&st=n8owjx27&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ann9zxnwcepv7ib15nz59/activity_1_prompting_v1.Rmd?rlkey=18hxmmciyfh5qg076scme2i3m&st=4pnow5ht&dl=0)
-- An activity about using LLMs to generate human-like data:[PDF](https://www.dropbox.com/scl/fi/qmsu9sqk775gita7bcli6/activity_2_siliconsubjects_v1.pdf?rlkey=towslzwnj8pghu0lioejnlvrv&st=7b0cfk96&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/lym1qpxj0qso5h6zo8z3n/activity_2_siliconsubjects_v1.Rmd?rlkey=psuwibn3s8kao7b5x50pm3w1j&st=vspaut3y&dl=0)
+- An activity about using LLMs to generate human-like data: [PDF](https://www.dropbox.com/scl/fi/qmsu9sqk775gita7bcli6/activity_2_siliconsubjects_v1.pdf?rlkey=towslzwnj8pghu0lioejnlvrv&st=7b0cfk96&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/lym1qpxj0qso5h6zo8z3n/activity_2_siliconsubjects_v1.Rmd?rlkey=psuwibn3s8kao7b5x50pm3w1j&st=vspaut3y&dl=0)
 - An activitiy about measurement and bias: [in progress]
 
 ### Reading list

@@ -27,11 +27,13 @@ My initial reading list is below. It is intended for advanced undergraduates and
 
 Using AI in the social sciences is a rapidly-growing area of research. There are many excellent papers not included in my current reading list. This is mainly because I am trying out combinations of papers that, first, cover a range of topics and emerging debates (in one semester) and, second, are accessible and interesting to students. If you have suggestions of readings to add, please feel free to email me and I will update the list.
 
+
 - Background and overview
 
   - "Introduction to Neural Transfer Learning With Transformers for Social Science Text Analysis" by Wankmüller in *Sociological Methods & Research* (2022) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241221134527)
   - "Start Generating: Harnessing Generative Artificial Intelligence for Sociological Research" by Davidson in *Socius* (2024) [link](https://journals.sagepub.com/doi/full/10.1177/23780231241259651)
   - "Integrating Generative Artificial Intelligence into Social Science Research" by Davidson and Karell in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251339184)
+
   
 - Prompting
 
@@ -40,10 +42,12 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
   - "Concept-Guided Chain-of-Thought Prompting for Pairwise Comparison Scoring of Texts with Large Language Models" by Wu, et al. on arXiv (2025) [link](https://arxiv.org/abs/2310.12049)
   - "Survey on Prompt Tuning", by Li, et al. on arXiv (2025) [link](https://arxiv.org/abs/2507.06085)
 
+
 - Prompting applications to text analysis
 
   - "Updating the 'Future of Coding': Comparing Generative AI Models to Other Text Analysis Methods" by Than, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/full/10.1177/00491241251339188)
   - "Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning", by Chae and Davidson in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/10.1177/00491241251325243)
+
 
 - Simulation and silicon subjects
 
@@ -54,16 +58,19 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
   - "Machine Bias: How do Generative Language Models Answer Opinion Polls?" by Boelaert, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251330582)
   - "Simulating Subjects: The Promise and Peril of Artificial Intelligence Stand-Ins for Social Agents and Interactions" by Kozlowski and Evans in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251337316)
 
+
 - Measurement and statistical bias
 
   - "How to Use Generative AIs for Image Analysis in the Social Sciences: Design-Based Supervised Learning" by Maranca, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251333372)
   - "The Mixed Subjects Approach: Treating Generative AI as (Potentially) Informative Observations in Experiments" by Broska, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251326865)
+
 
 - Models' biases
 
   - "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Bender, et al. (2021) [link](https://dl.acm.org/doi/10.1145/3442188.3445922)
   - "AI Generates Covertly Racist Decisions about People Based on Their Dialect" by Hofmann, et al. in *Nature* (2024) [link](https://www.nature.com/articles/s41586-024-07856-5)
   - "Explicitly Unbiased Large Language Models Still Form Biased Associations" by Bai, et al. in *PNAS* (2025) [link](https://www.pnas.org/doi/10.1073/pnas.2416228122)
+
     
 - (A few) applications and implications
 

@@ -35,7 +35,7 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
   
 - Prompting
 
-  - "Structure from Prompts: Generative AI as a Flexible and Accessible Information Extraction Engine" by Stuhler, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251336794)
+  - "From Codebooks to Promptbooks: Extracting Information from Text with Generative Large Language Models" by Stuhler, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251336794)
   - "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" by Wei, et al. on arXiv (2023) [link](https://arxiv.org/abs/2201.11903)
   - "Concept-Guided Chain-of-Thought Prompting for Pairwise Comparison Scoring of Texts with Large Language Models" by Wu, et al. on arXiv (2025) [link](https://arxiv.org/abs/2310.12049)
   - "Survey on Prompt Tuning", by Li, et al. on arXiv (2025) [link](https://arxiv.org/abs/2507.06085)
@@ -54,11 +54,17 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
   - "Machine Bias: How do Generative Language Models Answer Opinion Polls?" by Boelaert, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251330582)
   - "Simulating Subjects: The Promise and Peril of Artificial Intelligence Stand-Ins for Social Agents and Interactions" by Kozlowski and Evans in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251337316)
 
-- Measurement and bias
+- Measurement and statistical bias
 
   - "How to Use Generative AIs for Image Analysis in the Social Sciences: Design-Based Supervised Learning" by Maranca, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251333372)
   - "The Mixed Subjects Approach: Treating Generative AI as (Potentially) Informative Observations in Experiments" by Broska, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251326865)
 
+- Models' biases
+
+  - "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Bender, et al. (2021) [link](https://dl.acm.org/doi/10.1145/3442188.3445922)
+  - "AI Generates Covertly Racist Decisions about People Based on Their Dialect" by Hofmann, et al. in *Nature* (2025) [link](https://www.nature.com/articles/s41586-024-07856-5)
+  - "Explicitly Unbiased Large Language Models Still Form Biased Associations" by Bai, et al. in *PNAS* (2025) [link](https://www.pnas.org/doi/10.1073/pnas.2416228122)
+    
 - (A few) applications and implications
 
   - "Durably Reducing Conspiracy Beliefs Through Dialogues with AI" by Costello, et al. in *Science* (2024) [link](https://www.science.org/doi/10.1126/science.adq1814)

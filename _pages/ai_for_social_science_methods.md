@@ -62,7 +62,7 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
 - Models' biases
 
   - "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Bender, et al. (2021) [link](https://dl.acm.org/doi/10.1145/3442188.3445922)
-  - "AI Generates Covertly Racist Decisions about People Based on Their Dialect" by Hofmann, et al. in *Nature* (2025) [link](https://www.nature.com/articles/s41586-024-07856-5)
+  - "AI Generates Covertly Racist Decisions about People Based on Their Dialect" by Hofmann, et al. in *Nature* (2024) [link](https://www.nature.com/articles/s41586-024-07856-5)
   - "Explicitly Unbiased Large Language Models Still Form Biased Associations" by Bai, et al. in *PNAS* (2025) [link](https://www.pnas.org/doi/10.1073/pnas.2416228122)
     
 - (A few) applications and implications

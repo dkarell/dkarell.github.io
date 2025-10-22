@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor of Sociology at Yale University. I teach courses on integrating AI into social science research methods, computational approaches to studying culture, and the sociology of backlash. I also co-organize Yale's [Computational Social Science Workshop](https://isps.yale.edu/computational-social-science-workshop).
 
-My current research uses computational, quantitative, and experimental methods to examine the intersection of social movements, culture, and technology. For example, some projects investigate how people's interactions with AI can influence their understanding of the social world, including their perceptions of history and behavior towards people in different social groups. Another project analyzes the social and cultural dynamics of backlash, with a focus on the Blue Lives Matter movement. For more information about my research, see [here](https://dkarell.github.io/research/).
+My current research uses computational and quantitative methods to examine the intersection of social movements, culture, and technology. For example, some projects investigate how people's interactions with AI can influence their understanding of the social world, including their perceptions of history and behavior towards people in different social groups. Another project analyzes the social and cultural dynamics of backlash, with a focus on the Blue Lives Matter movement. For more information about my research, see [here](https://dkarell.github.io/research/).
 
 ### Teaching how to use AI for social science research
 

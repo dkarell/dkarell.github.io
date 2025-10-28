@@ -19,7 +19,7 @@ The files for the programming-based activities are available through the followi
 
 - An activity about prompting: [PDF](https://www.dropbox.com/scl/fi/cjusnjy4971rcr7gio379/activity_1_prompting_v1.pdf?rlkey=azilx8kchd4fsqjtw12buaav0&st=n8owjx27&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ann9zxnwcepv7ib15nz59/activity_1_prompting_v1.Rmd?rlkey=18hxmmciyfh5qg076scme2i3m&st=4pnow5ht&dl=0)
 - An activity about using LLMs to generate human-like data: [PDF](https://www.dropbox.com/scl/fi/qmsu9sqk775gita7bcli6/activity_2_siliconsubjects_v1.pdf?rlkey=towslzwnj8pghu0lioejnlvrv&st=7b0cfk96&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/lym1qpxj0qso5h6zo8z3n/activity_2_siliconsubjects_v1.Rmd?rlkey=psuwibn3s8kao7b5x50pm3w1j&st=vspaut3y&dl=0)
-- An activitiy about measurement and bias: [in progress]
+- An activitiy about measurement and statistical bias: [PDF](https://www.dropbox.com/scl/fi/x4u9ti6ha4ydf5jjrxhyh/activity_3_statisticalbias_v1.pdf?rlkey=7e0sbhhw0t8l3obi6fpm980dt&st=td4pfe8e&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ms4ozfyjfb877zqhccz1j/activity_3_statisticalbias_v1.Rmd?rlkey=xn9yb7ag61z1m9gyh1quvy73v&st=rqqt0two&dl=0) 
 
 ### Reading list
 

@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-During Fall 2025, I am teaching a new course on incorporating generative AI into social science research methods. I will post my materials here, along with notes about what did and did not work. If you are considering teaching this type of course, or already teaching it, I would love to hear from you. My hope is to help build a community of social scientists teaching about AI as a research tool. 
+During Spring 2026, I am teaching for the second time a course about incorporating generative AI into social science research methods. I will post my materials here, along with notes about what did and did not work. If you are considering teaching this type of course, or already teaching it, I would love to hear from you. My hope is to help build a community of social scientists teaching about AI as a research tool. 
 
 ## Course materials
 

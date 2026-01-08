@@ -17,13 +17,13 @@ Much of the course's content builds on a special issue of *Sociological Methods 
 
 The files for the programming-based activities are available through the following links. These are the first versions, and I will update them as I teach the course.
 
-- An activity about prompting: [PDF](https://www.dropbox.com/scl/fi/cjusnjy4971rcr7gio379/activity_1_prompting_v1.pdf?rlkey=azilx8kchd4fsqjtw12buaav0&st=n8owjx27&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ann9zxnwcepv7ib15nz59/activity_1_prompting_v1.Rmd?rlkey=18hxmmciyfh5qg076scme2i3m&st=4pnow5ht&dl=0)
-- An activity about using LLMs to generate human-like data: [PDF](https://www.dropbox.com/scl/fi/qmsu9sqk775gita7bcli6/activity_2_siliconsubjects_v1.pdf?rlkey=towslzwnj8pghu0lioejnlvrv&st=7b0cfk96&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/lym1qpxj0qso5h6zo8z3n/activity_2_siliconsubjects_v1.Rmd?rlkey=psuwibn3s8kao7b5x50pm3w1j&st=vspaut3y&dl=0)
-- An activitiy about measurement and statistical bias: [PDF](https://www.dropbox.com/scl/fi/x4u9ti6ha4ydf5jjrxhyh/activity_3_statisticalbias_v1.pdf?rlkey=7e0sbhhw0t8l3obi6fpm980dt&st=td4pfe8e&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ms4ozfyjfb877zqhccz1j/activity_3_statisticalbias_v1.Rmd?rlkey=xn9yb7ag61z1m9gyh1quvy73v&st=rqqt0two&dl=0) 
+- An activity about prompting: [PDF](https://www.dropbox.com/scl/fi/hlg89qvb3n8mevpbj0v00/activity_1_prompting_v2.pdf?rlkey=uzfgvysaooblbi9nrr9ocw69c&st=z0e3672d&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ann9zxnwcepv7ib15nz59/activity_1_prompting_v2.Rmd?rlkey=18hxmmciyfh5qg076scme2i3m&st=3xe7byja&dl=0)
+- An activity about using LLMs to generate human-like data: [PDF](https://www.dropbox.com/scl/fi/88d7py5s0ntmtdr1z6fgm/activity_2_siliconsubjects_v2.pdf?rlkey=uialpeghhstu9q8mgisiosz1x&st=hnisf4pz&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/lym1qpxj0qso5h6zo8z3n/activity_2_siliconsubjects_v2.Rmd?rlkey=psuwibn3s8kao7b5x50pm3w1j&st=e903abc0&dl=0)
+- An activitiy about measurement and statistical bias: [PDF](https://www.dropbox.com/scl/fi/hcmgmd1xzc0iqp1gj81i6/activity_3_statisticalbias_v2.pdf?rlkey=ycz94yip84cojb2dkndqxiwpv&st=ky9zy1dg&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/ms4ozfyjfb877zqhccz1j/activity_3_statisticalbias_v2.Rmd?rlkey=xn9yb7ag61z1m9gyh1quvy73v&st=1ye6wyko&dl=0) 
 
 ### Reading list
 
-My initial reading list is below. It is intended for advanced undergraduates and graduate students in social science majors and programs. As I teach the course, I will record notes about how students respond to each reading. You can find these notes [here](https://www.dropbox.com/scl/fi/kt24fb2rgdta954nz1co0/reading_remarks.docx?rlkey=fzl2q8twepot8dyng4ci9yn41&st=43sz3xpo&dl=0).
+My initial reading list is below. It is intended for advanced undergraduates and graduate students in social science majors and programs. As I teach the course, I will record notes about how students respond to each reading. You can find these notes [here](https://www.dropbox.com/scl/fi/kt24fb2rgdta954nz1co0/reading_remarks.docx?rlkey=9cfkm4std78dov3xpkhpjrs23&st=9x6fjhx6&dl=0).
 
 Using AI in the social sciences is a rapidly-growing area of research. There are many excellent papers not included in my current reading list. This is mainly because I am trying out combinations of papers that, first, cover a range of topics and emerging debates (in one semester) and, second, are accessible and interesting to students. If you have suggestions of readings to add, please feel free to email me and I will update the list.
 

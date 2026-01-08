@@ -12,7 +12,7 @@ On this page, I have organized my publications according to these topics. My pub
 
 “Integrating Generative Artificial Intelligence into Social Science Research: Measurement, Prompting, and Simulation”, with Thomas Davidson. 2025. *Sociological Methods and Research* 54: 775-793. [link](https://journals.sagepub.com/doi/10.1177/00491241251339184)
 
-“Artificial Intelligence Summaries of Historical Events Improve Knowledge Compared to Human-Written Summaries”, with Matthew Shu, Keitaro Okura, and Thomas Davidson. [preprint](https://osf.io/preprints/socarxiv/3gsqw)
+“Generating the Past: How Artificial Intelligence Summaries of Historical Events Affect Knowledge”, with Matthew Shu, Keitaro Okura, and Thomas Davidson. 2025. *Social Science Computer Review* [link](https://journals.sagepub.com/doi/abs/10.1177/08944393251409744)
 
 “Synthetic Duality: A Framework for Analyzing Natural Language Generation's Representation of Social Reality”, with Jeffrey Sachs and Ryan Barrett. 2024. *Poetics* 108: 101966. [link](https://www.sciencedirect.com/science/article/pii/S0304422X24001049?via%3Dihub)
 

@@ -30,8 +30,10 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
 
 - Background and overview
 
+  - "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Bender, et al. (2021) [link](https://dl.acm.org/doi/10.1145/3442188.3445922)
   - "Introduction to Neural Transfer Learning With Transformers for Social Science Text Analysis" by Wankmüller in *Sociological Methods & Research* (2022) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241221134527)
   - "Start Generating: Harnessing Generative Artificial Intelligence for Sociological Research" by Davidson in *Socius* (2024) [link](https://journals.sagepub.com/doi/full/10.1177/23780231241259651)
+  - "Embers of Autoregression Show How Large Language Models are Shaped by the Problem They are Trained to Solve" by McCoy, et al. (2024) in *PNAS* [link](https://www.pnas.org/doi/10.1073/pnas.2322420121)
   - "Integrating Generative Artificial Intelligence into Social Science Research" by Davidson and Karell in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251339184)
 
   
@@ -51,7 +53,7 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
 
 - Simulation and silicon subjects
 
-  - "Out of One, Many: Using Language Models to Simulate Human Samples" by Argyle, et al. in Political Analysis (2023) [link](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)
+  - "Out of One, Many: Using Language Models to Simulate Human Samples" by Argyle, et al. in *Political Analysis* (2023) [link](https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)
   - "Balancing Algorithmic Fidelity and Alignment in Silicon Sampling Research Methods" by Lyman, et al. in *Sociological Methods & Research* (2025) [link](https://journals.sagepub.com/doi/abs/10.1177/00491241251342008)
   - "Take Caution in Using LLMs as Human Surrogates" by Gao, et al. in PNAS (2025) [link](https://www.pnas.org/doi/10.1073/pnas.2501660122)
   - "Synthetic Replacements for Human Survey Data? The Perils of Large Language Models" by Bisbee, et al. in Political Analysis (2024) [link](https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE)
@@ -67,7 +69,6 @@ Using AI in the social sciences is a rapidly-growing area of research. There are
 
 - Models' biases
 
-  - "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" by Bender, et al. (2021) [link](https://dl.acm.org/doi/10.1145/3442188.3445922)
   - "AI Generates Covertly Racist Decisions about People Based on Their Dialect" by Hofmann, et al. in *Nature* (2024) [link](https://www.nature.com/articles/s41586-024-07856-5)
   - "Explicitly Unbiased Large Language Models Still Form Biased Associations" by Bai, et al. in *PNAS* (2025) [link](https://www.pnas.org/doi/10.1073/pnas.2416228122)
 

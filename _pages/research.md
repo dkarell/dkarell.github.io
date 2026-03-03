@@ -10,6 +10,8 @@ On this page, I have organized my publications according to these topics. My pub
 
 ## Generative AI, society, and social science research
 
+"How Latent and Prompting Biases in AI-Generated Historical Narratives Influence Opinions", with Matthew Shu, Keitaro Okura, and Thomas Davidson. 2026. *PNAS Nexus* 5: pgag022. [link](https://doi.org/10.1093/pnasnexus/pgag022)
+
 “Integrating Generative Artificial Intelligence into Social Science Research: Measurement, Prompting, and Simulation”, with Thomas Davidson. 2025. *Sociological Methods and Research* 54: 775-793. [link](https://journals.sagepub.com/doi/10.1177/00491241251339184)
 
 “Generating the Past: How Artificial Intelligence Summaries of Historical Events Affect Knowledge”, with Matthew Shu, Keitaro Okura, and Thomas Davidson. 2025. *Social Science Computer Review* [link](https://journals.sagepub.com/doi/abs/10.1177/08944393251409744)

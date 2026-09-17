@@ -10,7 +10,7 @@ On this page, I have organized my publications according to these topics. My pub
 
 ## Generative AI, society, and social science research
 
-"Generative AI and Society", with Laura Nelson and Thomas Davidson. Pre-print on OSF. 2026. [link](https://osf.io/preprints/socarxiv/wb72h_v1)
+"Generative AI and Society", with Laura Nelson and Thomas Davidson. 2026. Pre-print. [link](https://osf.io/preprints/socarxiv/wb72h_v1)
 
 "How Latent and Prompting Biases in AI-Generated Historical Narratives Influence Opinions", with Matthew Shu, Keitaro Okura, and Thomas Davidson. 2026. *PNAS Nexus* 5: pgag022. [link](https://doi.org/10.1093/pnasnexus/pgag022)
 

@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Since the fall of 2025, I have been teaching a course about incorporating generative AI into social science research methods. The earlier versions of the course closely followed a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (UNC Chapel Hill), which can be found [here](https://journals.sagepub.com/toc/smra/54/3). Recent veresions of the course have expanded beyond this special issue given the large amount of excellent research about using AI as a methodological tool.
+Since the fall of 2025, I have been teaching a course about incorporating generative AI into social science research methods. The earlier versions of the course closely followed a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (UNC Chapel Hill), which can be found [here](https://journals.sagepub.com/toc/smra/54/3). Recent versions of the course have expanded beyond this special issue given the large amount of excellent research about using AI as a methodological tool.
 
 To help others who are considering developing a similar course, I am sharing the files of my course's programming-based activities below. I will update these as often as I can as I continue to develop the course.
 

@@ -7,7 +7,7 @@ author_profile: true
 
 Since the fall of 2025, I have been teaching a course about incorporating generative AI into social science research methods. The earlier versions of the course closely followed a special issue of *Sociological Methods & Research* that I co-guest-edited with Thomas Davidson (UNC Chapel Hill), which can be found [here](https://journals.sagepub.com/toc/smra/54/3). Recent versions of the course have expanded beyond this special issue given the large amount of excellent research about using AI as a methodological tool.
 
-My course's current programming-based activities are below.
+These are my course's recent programming-based activities:
 
 1. An activity to set up students with a local LLM model and provide exposure to R: [HTML](https://www.dropbox.com/scl/fi/f9dtkj4a5ode0yeo1d2l9/activity_0_setup.html?rlkey=ov7tf6a8mb7zbcmz02hrcbdyu&st=itcuw4q7&dl=0) and [R Markdown](https://www.dropbox.com/scl/fi/9tvt3o0nz4ylu58sci3t7/activity_0_setup.Rmd?rlkey=ckatvox00plos2hd5v90eak1n&st=hy178xba&dl=0)
 
